@@ -1,0 +1,5 @@
+PyQt5==5.15.1
+pymorphy2==0.9.1
+Pillow==8.0.1
+pyqt5-tools==5.15.1.1.7.5
+pyinstaller==4.0
